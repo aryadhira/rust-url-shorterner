@@ -10,3 +10,7 @@
 `cargo install`
 **run apps**
 `cargo run`
+
+**add .env config**
+`cargo add dotenvy`
+

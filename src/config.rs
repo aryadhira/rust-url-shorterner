@@ -20,7 +20,7 @@ impl Config {
         }
     }
 
-    pub fn table() -> String {
-        return "test".to_string();
-    }
+    // pub fn table() -> String {
+    //     return "test".to_string();
+    // }
 }
